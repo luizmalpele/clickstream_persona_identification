@@ -36,4 +36,4 @@ Based on the distinctive behavioral DNA of the modeled personas, the following t
 *   **Focused Buyers:** Capitalize on this high-converting group (20.16% CVR) by testing a streamlined, one-click checkout flow that bypasses the standard multi-step cart process to minimize friction.
 
 ## Repository Contents
-*   `[Insert Jupyter Notebook Name].ipynb`: Complete Python codebase for data pretreatment, feature engineering, Mini-Batch K-Means clustering, PCA/t-SNE dimensionality reduction, LightGBM modeling, and SHAP explainability.
+*   `exploratory_data_analysis.ipynb`: Complete Python codebase for data pretreatment, feature engineering, Mini-Batch K-Means clustering, PCA/t-SNE dimensionality reduction, LightGBM modeling, and SHAP explainability.
